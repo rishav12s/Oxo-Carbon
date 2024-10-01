@@ -8,11 +8,11 @@
 > [!IMPORTANT]
 > This is not a standalone theme, needs [HyDe](https://github.com/prasanthrangan/hyprdots) installed...
 
-![t1](./screenshots/ss_1.png)
-![t2](./screenshots/ss_2.png)
-![t3](./screenshots/ss_3.png)
-![t3](./screenshots/ss_4.png)
-![t3](./screenshots/ss_5.png)
+![t1](./screenshots/ss1.png)
+![t2](./screenshots/ss2.png)
+![t3](./screenshots/ss3.png)
+![t3](./screenshots/ss4.png)
+![t3](./screenshots/ss5.png)
 
 ## Installation
 ```sh
