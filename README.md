@@ -20,7 +20,7 @@ Hyde theme import "Oxo Carbon" https://github.com/rishav12s/Oxo-Carbon
 ```
 or 
 ```sh
-Hyde theme patch
+Hyde theme import
 ```
 and choose Oxo Carbon
 
