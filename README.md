@@ -16,7 +16,7 @@
 
 ## Installation
 ```sh
-Hyde theme patch "Oxo Carbon" https://github.com/rishav12s/Oxo-Carbon
+Hyde theme import "Oxo Carbon" https://github.com/rishav12s/Oxo-Carbon
 ```
 or 
 ```sh
