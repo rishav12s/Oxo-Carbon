@@ -13,14 +13,6 @@ exec = gsettings set org.gnome.desktop.interface color-scheme '$COLOR_SCHEME'
 exec = Hyde cursor theme '$CURSOR_THEME' size $CURSOR_SIZE
 exec = Hyde code theme '$CODE_THEME'
 
-exec = gsettings set org.gnome.desktop.interface icon-theme 'Tela-circle-pink'
-exec = gsettings set org.gnome.desktop.interface gtk-theme 'Oxo-Carbon'
-exec = gsettings set org.gnome.desktop.interface color-scheme 'prefer-dark'
-
-exec = Hyde cursor theme 'Dracula-cursors' size 20
-exec = Hyde code theme 'oxocarbon'
-
-
 general {
     gaps_in = 3
     gaps_out = 8
