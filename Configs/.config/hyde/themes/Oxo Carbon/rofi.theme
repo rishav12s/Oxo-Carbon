@@ -8,6 +8,6 @@ $HOME/.config/rofi/theme.rasi
     select-fg:          #161616ff;
     separatorcolor:     transparent;
     border-color:       transparent;
-    font: "Jetbrains Mono 11";
+    //font: "Jetbrains Mono 11";
 }
 
